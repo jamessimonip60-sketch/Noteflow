@@ -1,0 +1,6 @@
+{
+  "name": "NoteFlow",
+  "description": "A light, responsive note-taking application designed for speed and clarity. Featuring real-time auto-save, text filtering, and an elegant Notion-lite aesthetic.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
